@@ -1,0 +1,741 @@
+2021-Ara-30 16:10:05 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:10:06 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:10:06 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:10:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:10:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:10:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:10:06 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:10:07 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:10:08 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:10:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:10:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:10:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:10:08 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:10:08 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:12:30 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:12:31 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:12:31 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:12:31 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:12:31 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:12:31 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:12:31 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:12:32 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:12:33 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:12:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:12:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:12:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:12:33 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:12:33 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:14:24 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:14:25 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:14:25 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:14:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:14:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:14:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:14:25 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:14:26 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:14:27 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:14:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:14:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:14:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:14:27 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:14:27 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:20:27 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:20:28 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:20:28 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:20:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:20:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:20:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:20:28 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:20:29 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:20:30 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:20:30 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:20:30 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:20:30 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:20:30 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:20:30 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:22:13 Ã–S [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPhone, studentSurname) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-Ara-30 16:28:02 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:28:03 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:28:03 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:28:03 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:28:03 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:28:03 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:28:03 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:28:04 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:28:05 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:28:05 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:28:05 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:28:05 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:28:05 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:28:05 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:28:28 Ã–S [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPhone, studentSurname) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-Ara-30 16:30:07 ÖS [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2021-Ara-30 16:30:08 ÖS [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Ara-30 16:30:09 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:30:09 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:30:09 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:30:09 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:30:09 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:30:10 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:30:11 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:30:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:30:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:30:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:30:11 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:30:11 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:31:40 ÖS [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPhone, studentSurname) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-Ara-30 16:31:49 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:31:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:31:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:31:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:31:49 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:31:50 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:31:50 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:31:54 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2021-Ara-30 16:32:03 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_0_, student0_.studentAddress as studenta2_1_0_, student0_.studentAge as studenta3_1_0_, student0_.studentBirthday as studentb4_1_0_, student0_.studentClass as studentc5_1_0_, student0_.studentDepartment as studentd6_1_0_, student0_.studentEmail as studente7_1_0_, student0_.studentFaculty as studentf8_1_0_, student0_.studentName as studentn9_1_0_, student0_.studentNo as student10_1_0_, student0_.studentPhone as student11_1_0_, student0_.studentSurname as student12_1_0_ from student student0_ where student0_.ID=?
+2021-Ara-30 16:32:03 ÖS [main] DEBUG org.hibernate.SQL - delete from student where ID=?
+2021-Ara-30 16:32:11 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:32:11 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:32:11 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:32:15 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2021-Ara-30 16:32:17 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_0_, student0_.studentAddress as studenta2_1_0_, student0_.studentAge as studenta3_1_0_, student0_.studentBirthday as studentb4_1_0_, student0_.studentClass as studentc5_1_0_, student0_.studentDepartment as studentd6_1_0_, student0_.studentEmail as studente7_1_0_, student0_.studentFaculty as studentf8_1_0_, student0_.studentName as studentn9_1_0_, student0_.studentNo as student10_1_0_, student0_.studentPhone as student11_1_0_, student0_.studentSurname as student12_1_0_ from student student0_ where student0_.ID=?
+2021-Ara-30 16:32:17 ÖS [main] DEBUG org.hibernate.SQL - delete from student where ID=?
+2021-Ara-30 16:32:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:32:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:32:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:32:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:32:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:32:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:32:26 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:32:26 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:32:26 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:32:26 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:32:26 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:32:26 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:32:55 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2021-Ara-30 16:34:14 ÖS [main] DEBUG org.hibernate.SQL - update student set studentAddress=?, studentAge=?, studentBirthday=?, studentClass=?, studentDepartment=?, studentEmail=?, studentFaculty=?, studentName=?, studentNo=?, studentPhone=?, studentSurname=? where ID=?
+2021-Ara-30 16:34:24 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:34:24 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:34:24 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:34:24 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:34:28 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2021-Ara-30 16:34:28 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2021-Ara-30 16:34:53 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:34:53 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:34:53 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:35:15 ÖS [main] DEBUG org.hibernate.SQL - insert into lesson (lessonAverages, lessonFinal, lessonMidTerm, lessonName, lessonQuiz, studentNo) values (?, ?, ?, ?, ?, ?)
+2021-Ara-30 16:35:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:35:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:35:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:35:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:35:29 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2021-Ara-30 16:35:29 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2021-Ara-30 16:36:01 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:36:01 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:36:01 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:36:01 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:36:01 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:36:02 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2021-Ara-30 16:36:02 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2021-Ara-30 16:36:06 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:00:40 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-01 20:00:42 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-01 20:00:42 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:00:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:00:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:00:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:00:43 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:00:45 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:00:47 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:00:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:00:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:00:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:00:47 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:00:48 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:01:46 Ã–S [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPhone, studentSurname) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2022-Oca-01 20:02:54 ÖS [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-01 20:02:55 ÖS [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-01 20:02:56 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:02:56 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:02:56 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:02:56 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:02:56 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:02:57 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:02:58 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:02:58 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:02:58 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:02:58 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:02:58 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:02:58 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:04 ÖS [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPhone, studentSurname) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2022-Oca-01 20:04:10 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:10 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:10 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:15 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:04:17 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_0_, student0_.studentAddress as studenta2_1_0_, student0_.studentAge as studenta3_1_0_, student0_.studentBirthday as studentb4_1_0_, student0_.studentClass as studentc5_1_0_, student0_.studentDepartment as studentd6_1_0_, student0_.studentEmail as studente7_1_0_, student0_.studentFaculty as studentf8_1_0_, student0_.studentName as studentn9_1_0_, student0_.studentNo as student10_1_0_, student0_.studentPhone as student11_1_0_, student0_.studentSurname as student12_1_0_ from student student0_ where student0_.ID=?
+2022-Oca-01 20:04:17 ÖS [main] DEBUG org.hibernate.SQL - delete from student where ID=?
+2022-Oca-01 20:04:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:25 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:25 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:32 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:04:38 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:38 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:04:38 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:04:41 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:05:27 ÖS [main] DEBUG org.hibernate.SQL - update student set studentAddress=?, studentAge=?, studentBirthday=?, studentClass=?, studentDepartment=?, studentEmail=?, studentFaculty=?, studentName=?, studentNo=?, studentPhone=?, studentSurname=? where ID=?
+2022-Oca-01 20:05:32 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:05:32 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:05:32 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:05:43 ÖS [main] DEBUG org.hibernate.SQL - insert into lesson (lessonAverages, lessonFinal, lessonMidTerm, lessonName, lessonQuiz, studentNo) values (?, ?, ?, ?, ?, ?)
+2022-Oca-01 20:05:49 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:05:49 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:05:49 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:05 ÖS [main] DEBUG org.hibernate.SQL - insert into lesson (lessonAverages, lessonFinal, lessonMidTerm, lessonName, lessonQuiz, studentNo) values (?, ?, ?, ?, ?, ?)
+2022-Oca-01 20:06:11 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:11 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:11 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:15 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2022-Oca-01 20:06:18 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_0_, lesson0_.lessonAverages as lessonav2_0_0_, lesson0_.lessonFinal as lessonfi3_0_0_, lesson0_.lessonMidTerm as lessonmi4_0_0_, lesson0_.lessonName as lessonna5_0_0_, lesson0_.lessonQuiz as lessonqu6_0_0_, lesson0_.studentNo as studentn7_0_0_ from lesson lesson0_ where lesson0_.ID=?
+2022-Oca-01 20:06:18 ÖS [main] DEBUG org.hibernate.SQL - delete from lesson where ID=?
+2022-Oca-01 20:06:24 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:24 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:24 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:28 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2022-Oca-01 20:06:40 ÖS [main] DEBUG org.hibernate.SQL - update lesson set lessonAverages=?, lessonFinal=?, lessonMidTerm=?, lessonName=?, lessonQuiz=?, studentNo=? where ID=?
+2022-Oca-01 20:06:46 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:46 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:46 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:06:46 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:06:47 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:06:52 ÖS [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2022-Oca-01 20:06:52 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:11:07 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:11:07 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:11:07 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:11:11 ÖS [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPhone as student11_1_, student0_.studentSurname as student12_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-01 20:12:39 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:12:39 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:12:39 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:12:39 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:12:39 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:12:39 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-01 20:12:40 ÖS [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-01 20:12:40 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-01 20:12:40 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-01 20:12:40 ÖS [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-01 20:12:40 ÖS [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-01 20:12:40 ÖS [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:08:43 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:08:45 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:08:45 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:08:45 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:08:45 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:08:45 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:08:45 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:08:46 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:08:48 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-08 21:10:21 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:10:22 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:10:22 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:10:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:10:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:10:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:10:22 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:10:23 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:10:24 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-08 21:11:46 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:11:47 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:11:47 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:11:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:11:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:11:47 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:11:47 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:11:48 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:11:49 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-08 21:13:22 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:13:23 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:13:24 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:13:24 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:13:24 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:13:24 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:13:24 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:13:24 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:13:26 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-08 21:14:09 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:14:10 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:14:10 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:14:12 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-08 21:14:36 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-08 21:14:37 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-08 21:14:37 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-08 21:14:37 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-08 21:14:37 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-08 21:14:37 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-08 21:14:37 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-08 21:14:38 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-08 21:14:40 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:28:37 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:28:44 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:28:44 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:28:44 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:28:44 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:28:44 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:28:45 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:28:47 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:28:54 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:30:26 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:30:28 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:30:28 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:30:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:30:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:30:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:30:28 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:30:29 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:30:32 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:34:33 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:34:34 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:34:34 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:34:34 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:34:34 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:34:34 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:34:34 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:34:35 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:34:36 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:35:41 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:35:42 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:35:42 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:35:42 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:35:42 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:35:42 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:35:42 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:35:43 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:35:45 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:36:42 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:36:43 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:36:43 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:36:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:36:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:36:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:36:43 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:36:44 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:36:46 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:37:23 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:37:25 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:37:25 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:37:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:37:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:37:25 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:37:25 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:37:26 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:37:28 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:38:24 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:38:27 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:38:27 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:38:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:38:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:38:27 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:38:27 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:38:29 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:38:31 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:44:32 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:44:33 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:44:33 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:44:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:44:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:44:33 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:44:33 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:44:34 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:44:36 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:45:16 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:45:17 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:45:17 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:45:17 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:45:17 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:45:17 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:45:17 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:45:18 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:45:20 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:45:40 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:45:41 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:45:41 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:45:41 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:45:41 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:45:41 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:45:41 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:45:42 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:45:43 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:46:06 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:46:07 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:46:07 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:46:07 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:46:07 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:46:07 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:46:07 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:46:08 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:46:10 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:47:11 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:47:12 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:47:12 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:47:12 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:47:12 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:47:12 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:47:12 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:47:13 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:47:14 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 20:51:08 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:51:16 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:51:19 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:51:19 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:51:19 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:51:19 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:51:19 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:51:26 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:52:12 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 20:52:13 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 20:52:14 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 20:52:14 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 20:52:14 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 20:52:14 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 20:52:14 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 20:52:15 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 20:52:17 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:02:16 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:03:10 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:03:11 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:03:11 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:03:11 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:03:11 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:03:11 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:03:11 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:03:12 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:03:14 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:03:53 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:03:54 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:03:54 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:03:54 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:03:54 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:03:54 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:03:54 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:03:55 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:03:57 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:04:06 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:04:06 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:04:06 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:04:50 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:04:51 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:04:52 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:04:52 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:04:52 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:04:52 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:04:52 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:04:52 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:04:54 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:07:27 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:07:28 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:07:28 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:07:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:07:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:07:28 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:07:28 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:07:29 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:07:31 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:08:21 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:08:22 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:08:22 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:08:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:08:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:08:22 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:08:22 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:08:23 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:08:25 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:09:34 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:09:35 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:09:35 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:09:35 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:09:35 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:09:35 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:09:35 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:09:36 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:09:38 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:11:05 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:11:06 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:11:06 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:11:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:11:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:11:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:11:06 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:11:07 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:11:09 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:11:16 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:11:16 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:11:16 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:11:30 Ã–S [main] DEBUG org.hibernate.SQL - insert into lesson (lessonAverages, lessonFinal, lessonMidTerm, lessonName, lessonQuiz, studentNo) values (?, ?, ?, ?, ?, ?)
+2022-Oca-14 21:11:43 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:11:43 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:11:43 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:51:58 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 21:51:59 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 21:51:59 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:52:00 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:52:00 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:52:00 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:52:00 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:52:00 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:52:02 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 21:52:13 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:52:13 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:52:13 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:53:46 Ã–S [main] DEBUG org.hibernate.SQL - insert into student (studentAddress, studentAge, studentBirthday, studentClass, studentDepartment, studentEmail, studentFaculty, studentName, studentNo, studentPassword, studentPhone, studentSurname, studentType) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2022-Oca-14 21:53:58 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:53:58 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:53:58 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:53:58 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:53:58 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:53:58 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:53:59 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:53:59 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:53:59 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:53:59 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:53:59 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:53:59 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:54:10 Ã–S [main] DEBUG org.hibernate.SQL - insert into lesson (lessonAverages, lessonFinal, lessonMidTerm, lessonName, lessonQuiz, studentNo) values (?, ?, ?, ?, ?, ?)
+2022-Oca-14 21:54:16 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:54:16 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 21:54:16 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 21:54:17 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 21:54:21 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 22:06:05 Ã–S [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-Oca-14 22:06:06 Ã–S [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-Oca-14 22:06:06 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:06:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:06:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:06:06 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:06:06 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:06:07 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:06:09 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?
+2022-Oca-14 22:06:40 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:06:40 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:06:40 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:06:40 Ã–S [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2022-Oca-14 22:06:43 Ã–S [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_0_, lesson0_.lessonAverages as lessonav2_0_0_, lesson0_.lessonFinal as lessonfi3_0_0_, lesson0_.lessonMidTerm as lessonmi4_0_0_, lesson0_.lessonName as lessonna5_0_0_, lesson0_.lessonQuiz as lessonqu6_0_0_, lesson0_.studentNo as studentn7_0_0_ from lesson lesson0_ where lesson0_.ID=?
+2022-Oca-14 22:06:43 Ã–S [main] DEBUG org.hibernate.SQL - delete from lesson where ID=?
+2022-Oca-14 22:07:08 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:07:08 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:07:08 Ã–S [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/studentautomation]
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2022-Oca-14 22:07:08 Ã–S [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-Oca-14 22:07:08 Ã–S [main] DEBUG org.hibernate.SQL - select lesson0_.ID as id1_0_, lesson0_.lessonAverages as lessonav2_0_, lesson0_.lessonFinal as lessonfi3_0_, lesson0_.lessonMidTerm as lessonmi4_0_, lesson0_.lessonName as lessonna5_0_, lesson0_.lessonQuiz as lessonqu6_0_, lesson0_.studentNo as studentn7_0_ from lesson lesson0_ where lesson0_.studentNo like ?
+2022-Oca-14 22:07:09 Ã–S [main] DEBUG org.hibernate.SQL - select student0_.ID as id1_1_, student0_.studentAddress as studenta2_1_, student0_.studentAge as studenta3_1_, student0_.studentBirthday as studentb4_1_, student0_.studentClass as studentc5_1_, student0_.studentDepartment as studentd6_1_, student0_.studentEmail as studente7_1_, student0_.studentFaculty as studentf8_1_, student0_.studentName as studentn9_1_, student0_.studentNo as student10_1_, student0_.studentPassword as student11_1_, student0_.studentPhone as student12_1_, student0_.studentSurname as student13_1_, student0_.studentType as student14_1_ from student student0_ where student0_.studentNo like ?

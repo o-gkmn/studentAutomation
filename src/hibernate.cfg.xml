@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+ 
+    <session-factory>
+ 
+        <!-- Veritabanı baglanti bilgileri -->
+        <!-- Veritabanı jdbc -->
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <!--Veritabanımız için bağlantı yolunu vereceğiz  -->
+        <property name="connection.url">jdbc:mysql://localhost:3306/studentautomation</property>
+         <!-- Veritabanı kullanıcı adı -->
+        <property name="connection.username">root</property>
+         <!-- Kullanıcı parolamız -->
+        <property name="connection.password">1234</property>
+ 
+        <!-- JDBC connection pool (use the built-in) -->
+        <property name="connection.pool_size">1</property>
+ 
+        <!-- SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+ 
+        <!-- Disable the second-level cache  -->
+        <property name="cache.provider_class">org.hibernate.cache.internal.NoCacheProvider</property>
+ 
+        <!-- Konsolda yapılan işlemlerin sql sorgusu gösterilsin mi -->
+        <property name="show_sql">true</property>
+ 
+        <!-- Burası create olursa tablo her defasında yeniden oluşturulur -->
+        <!-- Update olur ise veritabanı silinmez üzerine ekleme yapılır -->
+        <property name="hbm2ddl.auto">create</property>
+ 
+ <!-- Burası ise veritabanımıza haritalanacak olan personel sınıfımızın yolu -->
+        <mapping class="com.studentAutomation.Entities.Acedemic"/>
+        <mapping class="com.studentAutomation.Entities.Administrative"/>
+        <mapping class="com.studentAutomation.Entities.Student"/>
+
+ 
+    </session-factory>
+ 
+</hibernate-configuration>
